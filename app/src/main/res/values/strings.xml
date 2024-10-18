@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="all">All</string>
+    <string name="saved">Saved</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="allProducts">All Products</string>
+</resources>
